@@ -5,6 +5,7 @@ I created this project while studying up on React.
 A friend/mentor of mine asked me to create this as an assignment, where I have to use this fake API call which fetches some data.
 I have to use it in React components :)
 Simple app. but i didnt want my work go wasted.
+If you judge.. I will still love you ..  ❤️❤️❤️
 
 
 # To Run
